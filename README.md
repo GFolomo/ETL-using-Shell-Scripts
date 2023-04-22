@@ -14,5 +14,3 @@ The following are the columns and their data types in the file:
 and two more columns: accessed_from_mobile (boolean) and browser_code (int). The columns which we need to copy to the table are the first four coumns : timestamp, latitude, longitude and visitorid.
 
 NOTE: The file comes with a header. So use the ‘HEADER’ option in the ‘COPY’ command.
-
-
